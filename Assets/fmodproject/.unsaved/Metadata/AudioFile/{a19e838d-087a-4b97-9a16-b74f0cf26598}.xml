@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{a19e838d-087a-4b97-9a16-b74f0cf26598}">
+        <property name="assetPath">
+            <value>339822__inspectorj__hand-bells-cluster.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>9.5945124716553281</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{12595278-f866-4249-b42c-29891e007568}</destination>
+        </relationship>
+    </object>
+</objects>

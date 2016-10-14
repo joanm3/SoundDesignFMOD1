@@ -24,7 +24,9 @@ ExportedObj/
 *.user
 *.user.vc .cache 
 *.recycle 
-
+Assets/fmodproject/.cache
+Assets/fmodproject/.user
+Assets/fmodproject/.unsaved
 
 # Unity3D generated meta files
 *.pidb.meta
